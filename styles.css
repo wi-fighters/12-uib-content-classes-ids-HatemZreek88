@@ -1,0 +1,14 @@
+.list-item:not(:last-child) {
+  color: blueviolet;
+}
+.heading {
+  color: red;
+}
+#first-heading {
+  background-color: rgb(201, 13, 207);
+  color: black;
+}
+#last-heading {
+  background-color: green;
+  color: black;
+}
